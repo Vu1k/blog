@@ -1,0 +1,9 @@
+baseURL = 'https://github.com/Vu1k/blog/'
+languageCode = 'es-la'
+title = 'Andre's Blog'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
