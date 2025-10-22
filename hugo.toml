@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/Vu1k/blog/'
 languageCode = 'es-la'
-title = 'Andre's Blog'
+title = 'Andres Blog'
 theme = 'ananke'
 
 [caches]
