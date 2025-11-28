@@ -1,7 +1,7 @@
 ---
 title: "Metaprompt, ¿La solución definitiva?"
 date: 2025-10-20T15:49:00-05:00
-draft: true
+draft: false
 ---
 
 
