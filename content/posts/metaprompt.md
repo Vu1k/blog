@@ -1,9 +1,10 @@
 ---
-title: "Metaprompt, ¿La solución definitiva?"
+title: "Metaprompt"
 date: 2025-10-20T15:49:00-05:00
 draft: false
 ---
 
+# ¿Por qué pedirle a la IA que nos ayude a hablarle a la IA? Cuando delegamos hasta la forma de preguntar
 
 Partimos del hecho de que podemos hablar en lenguaje natural con un LLM, español, francés o inglés, parece que nos entienden y contestan de forma muy coherente. Incluso usamos términos humanos para referirnos a estos modelos y sus aplicaciones: neuronas, inteligencia, aprendizaje, contexto, alucinación, memoria. Esto puede inducirnos erróneamente a creer que estamos tratando con una entidad consciente, a pesar de esto, lo inteligente es tratarlos como una persona, solo así vamos a poder explotar toda su capacidad.
 
